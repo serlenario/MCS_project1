@@ -1,1 +1,1 @@
-# MCS_project1
+My first steps at MCS school
